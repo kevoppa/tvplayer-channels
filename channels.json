@@ -38,5 +38,15 @@
     "category": "Anime",
     "name": "Anime Sama",
     "url": "https://anime-sama.to/"
+  },
+  {
+    "category": "Film",
+    "name": "Flemmix",
+    "url": "https://flemmix.cafe/"
+  },
+  {
+    "category": "Film",
+    "name": "Xalaflix",
+    "url": "https://xalaflix.tax/"
   }
 ]
