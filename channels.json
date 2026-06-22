@@ -40,6 +40,16 @@
     "url": "https://anime-sama.to/"
   },
   {
+    "category": "Anime",
+    "name": "OuStreamer - Anime",
+    "url": "https://app.oustreamer.com/cat/anime"
+  },
+  {
+    "category": "Film",
+    "name": "OuStreamer - Film",
+    "url": "https://app.oustreamer.com/cat/films"
+  },
+  {
     "category": "Film",
     "name": "Flemmix",
     "url": "https://flemmix.cafe/"
