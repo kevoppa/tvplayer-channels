@@ -58,5 +58,10 @@
     "category": "Film",
     "name": "Xalaflix",
     "url": "https://xalaflix.tax/"
+  },
+  {
+    "category": "Drama",
+    "name": "OuStreamer - Drama",
+    "url": "https://app.oustreamer.com/cat/drama"
   }
 ]
