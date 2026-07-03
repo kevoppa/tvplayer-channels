@@ -1,6 +1,11 @@
 [
   {
     "category": "Sport",
+    "name": "TV Belgique",
+    "url": "https://auvio.rtbf.be/direct"
+  },
+  {
+    "category": "Sport",
     "name": "beIN SPORT 1 - VolkaMax (FR)",
     "url": "https://18zone.click/player/3/1"
   },
