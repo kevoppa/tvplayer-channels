@@ -1,5 +1,10 @@
 [
   {
+    "category": "TV",
+    "name": "TV French Stream",
+    "url": "https://fstv.rest/"
+  },
+  {
     "category": "Sport",
     "name": "TV Belgique",
     "url": "https://auvio.rtbf.be/direct"
