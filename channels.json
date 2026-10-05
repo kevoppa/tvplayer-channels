@@ -1,5 +1,10 @@
 [
   {
+    "category": "Sport",
+    "name": "TV Suisse - RTS CH",
+    "url": "https://www.rts.ch/play/tv/direct/rts-1?tvLiveId=3608506"
+  },
+  {
     "category": "TV",
     "name": "TV French Stream",
     "url": "https://fstv.rest/"
