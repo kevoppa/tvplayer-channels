@@ -1,5 +1,10 @@
 [
   {
+    "category": "Film",
+    "name": "Torrentio",
+    "url": "https://torrentio.strem.fun/configure"
+  },
+  {
     "category": "Sport",
     "name": "TV Suisse - RTS CH",
     "url": "https://www.rts.ch/play/tv/direct/rts-1?tvLiveId=3608506"
