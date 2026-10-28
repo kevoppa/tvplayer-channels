@@ -1,6 +1,11 @@
 [
   {
     "category": "Anime",
+    "name": "Viewio MANIFEST.json Anime - Stremio",
+    "url": "https://github.com/kevoppa/tvplayer-channels/blob/main/viewio-ma-configuration.json"
+  },
+  {
+    "category": "Anime",
     "name": "Viewio Anime - Stremio",
     "url": "https://viewio.me/app"
   },
