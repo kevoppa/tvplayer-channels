@@ -1,0 +1,270 @@
+{
+  "format": "viewio-studio-config",
+  "version": 1,
+  "exportedAt": "2026-10-28T18:55:52.985Z",
+  "settings": {
+    "schemaVersion": 8,
+    "generalLanguage": "fr",
+    "contentTypes": [
+      "movies",
+      "series"
+    ],
+    "playback": {
+      "acceptedLanguages": [
+        "fr",
+        "multi"
+      ],
+      "preferredLanguage": "fr",
+      "animeAcceptedLanguages": [
+        "vostfr",
+        "multi",
+        "fr"
+      ],
+      "animePreferredLanguage": "vostfr",
+      "maxResolution": "4k",
+      "minResolution": null,
+      "minQuality": null,
+      "maxSizeGb": null,
+      "maxPerResolution": 5,
+      "sort": [
+        "resolution",
+        "quality",
+        "language",
+        "size"
+      ],
+      "preferHdr": false,
+      "excludeFormats": [],
+      "excludeCam": true,
+      "exclude3d": true,
+      "includeUnready": false,
+      "sourceTypes": [
+        "torrent",
+        "ddl"
+      ],
+      "maxResults": 10,
+      "includePersonalFiles": false,
+      "selection": "versions"
+    },
+    "subtitles": {
+      "enabled": true,
+      "languages": [
+        "fr"
+      ],
+      "aiTranslations": false
+    },
+    "catalogues": [
+      {
+        "id": "for-you",
+        "name": "Pour vous",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies",
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "for-you:because",
+        "name": "Parce que vous avez aimé…",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies",
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "for-you:new",
+        "name": "Nouveautés pour vous",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies",
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "for-you:season",
+        "name": "De saison",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies",
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-genre-action-movies",
+        "name": "Films d’action",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-genre-action-adventure-series",
+        "name": "Séries d’action et d’aventure",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-genre-comedy-movies",
+        "name": "Comédies",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-genre-comedy-series",
+        "name": "Séries comiques",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-anime-popular",
+        "name": "Animés populaires",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "anime"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-new-movies",
+        "name": "Sorties numériques",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-trending-movies",
+        "name": "Films tendance",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-top-movies",
+        "name": "Films les mieux notés",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-new-series",
+        "name": "Nouvelles séries",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-trending-series",
+        "name": "Séries tendance",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "tmdb-top-series",
+        "name": "Séries les mieux notées",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "viewio.search",
+        "name": "Viewio",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "movies",
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "last-videos",
+        "name": "Derniers épisodes",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "sort": "original"
+      },
+      {
+        "id": "calendar-videos",
+        "name": "Calendrier",
+        "source": "TMDB",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "sort": "original"
+      }
+    ],
+    "appearance": {
+      "mode": "compact",
+      "template": {
+        "name": "{provider} Viewio {res}",
+        "body": "🎬 {source} · {hdr} · {codec}\n🔊 {audio} · {langs:flags} {verified} {langs:codes}\n📦 {size} · 📶 {bitrate}"
+      },
+      "posters": {
+        "mode": "original",
+        "style": {
+          "layout": "editorial",
+          "quality": {
+            "uhd": true,
+            "hdr": true,
+            "dv": true,
+            "hdr10p": false,
+            "remux": false,
+            "fhd": false
+          },
+          "blur": "ambient-led"
+        },
+        "custom": null
+      }
+    },
+    "personal": {
+      "enabled": false,
+      "aiEnabled": false
+    }
+  }
+}
