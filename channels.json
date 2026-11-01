@@ -1,23 +1,8 @@
 [
   {
-    "category": "Anime",
-    "name": "Viewio MANIFEST.json Anime - Stremio",
-    "url": "https://github.com/kevoppa/tvplayer-channels/blob/main/viewio-ma-configuration.json"
-  },
-  {
-    "category": "Anime",
-    "name": "Viewio Anime - Stremio",
-    "url": "https://viewio.me/app"
-  },
-  {
     "category": "Sport",
     "name": "http://mag.tiger-ott.net:80/c/ - 00:1A:79:c6:05:0d",
     "url": "http://mag.tiger-ott.net:80/c/"
-  },
-  {
-    "category": "Film",
-    "name": "Torrentio",
-    "url": "https://torrentio.strem.fun/configure"
   },
   {
     "category": "Sport",
@@ -110,7 +95,7 @@
     "url": "https://app.oustreamer.com/cat/drama"
   },
   {
-    "category": "Film",
+    "category": "Stremio",
     "name": "Stremio - Torrentio (FR)",
     "url": "stremio://torrentio.strem.fun/language=french/manifest.json"
   },
