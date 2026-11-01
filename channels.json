@@ -1,7 +1,7 @@
 [
   {
     "category": "Sport",
-    "name": "http://mag.tiger-ott.net:80/c/ - 00:1A:79:c6:05:0d",
+    "name": "Chaine TV - http://mag.tiger-ott.net:80/c/ - 00:1A:79:c6:05:0d",
     "url": "http://mag.tiger-ott.net:80/c/"
   },
   {
@@ -100,47 +100,47 @@
     "url": "stremio://torrentio.strem.fun/language=french/manifest.json"
   },
   {
-    "category": "Anime",
+    "category": "Stremio",
     "name": "Stremio - Viewio (Anime)",
     "url": "stremio://addon.viewio.me/u/38690209363a79136f88ce52adf5f6ad9131e3247f2ebac2fb30e3c5f1399383/manifest.json"
   },
   {
-    "category": "Drama",
+    "category": "Stremio",
     "name": "Stremio - YaStream (Drama Asiatique)",
     "url": "stremio://yastream.tamthai.de/eyJjYXRhbG9ncyI6WyJraXNza2guc2VyaWVzLktvcmVhbiIsImtpc3NraC5zZXJpZXMuSmFwYW5lc2UiLCJraXNza2gubW92aWUuUGhpbGlwcGluZSIsImtpc3NraC5tb3ZpZS5UaGFpIiwia2lzc2toLm1vdmllLlVTIiwia2lzc2toLnNlcmllcy5DaGluZXNlIiwia2lzc2toLm1vdmllLkNoaW5lc2UiLCJraXNza2guc2VyaWVzLlVTIiwia2lzc2toLm1vdmllLktvcmVhbiIsImtpc3NraC5zZXJpZXMuVGhhaSIsImtpc3NraC5zZXJpZXMuUGhpbGlwcGluZSIsImtpc3NraC5zZXJpZXMuSG9uZ2tvbmciLCJraXNza2gubW92aWUuVGFpd2FuZXNlIiwia2lzc2toLnNlcmllcy5UYWl3YW5lc2UiLCJraXNza2gubW92aWUuSG9uZ2tvbmciLCJraXNza2gubW92aWUuSmFwYW5lc2UiLCJvbmV0b3VjaHR2LnNlcmllcy5Lb3JlYW4iLCJvbmV0b3VjaHR2LnNlcmllcy5DaGluZXNlIiwib25ldG91Y2h0di5zZXJpZXMuVGhhaSIsIm9uZXRvdWNodHYuc2VyaWVzLlBvcHVsYXIiLCJraXNza2guc2VyaWVzLlNlYXJjaCIsImtpc3NraC5tb3ZpZS5TZWFyY2giLCJvbmV0b3VjaHR2LnNlcmllcy5TZWFyY2giLCJpZHJhbWEuc2VyaWVzLmlEcmFtYSIsImlkcmFtYS5zZXJpZXMuU2VhcmNoIl0sImNhdGFsb2ciOlsia2lzc2toIiwib25ldG91Y2h0diJdLCJzdHJlYW0iOlsia2lzc2toIiwib25ldG91Y2h0diIsIm1rdmRyYW1hIl0sIm5zZnciOnRydWUsImluZm8iOnRydWUsInBvc3RlciI6InJwZGIiLCJtZnBVcmwiOiIiLCJ0YktleSI6IiIsIm1mcFBhc3MiOiIifQ==/manifest.json"
   },
   {
-    "category": "Film",
+    "category": "Stremio",
     "name": "Stremio - Comet (FR / AllDebrid)",
     "url": "stremio://comet.elfhosted.com/eyJtYXhSZXN1bHRzUGVyUmVzb2x1dGlvbiI6MCwibWF4U2l6ZSI6MCwiY2FjaGVkT25seSI6ZmFsc2UsInNvcnRDYWNoZWRVbmNhY2hlZFRvZ2V0aGVyIjpmYWxzZSwicmVtb3ZlVHJhc2giOnRydWUsInJlc3VsdEZvcm1hdCI6WyJhbGwiXSwiZGVicmlkU2VydmljZXMiOlt7InNlcnZpY2UiOiJhbGxkZWJyaWQiLCJhcGlLZXkiOiJaWkdQR001SE05Ujk1WTJaQjVFNCJ9XSwiZW5hYmxlVG9ycmVudCI6ZmFsc2UsImRlZHVwbGljYXRlU3RyZWFtcyI6ZmFsc2UsInNjcmFwZURlYnJpZEFjY291bnRUb3JyZW50cyI6ZmFsc2UsImRlYnJpZFN0cmVhbVByb3h5UGFzc3dvcmQiOiIiLCJsYW5ndWFnZXMiOnsicmVxdWlyZWQiOlsiZnIiXSwiYWxsb3dlZCI6WyJmciJdLCJleGNsdWRlIjpbXSwicHJlZmVycmVkIjpbImZyIl19LCJyZXNvbHV0aW9ucyI6e30sIm9wdGlvbnMiOnsicmVtb3ZlX3JhbmtzX3VuZGVyIjotMTAwMDAwMDAwMDAsImFsbG93X2VuZ2xpc2hfaW5fbGFuZ3VhZ2VzIjpmYWxzZSwicmVtb3ZlX3Vua25vd25fbGFuZ3VhZ2VzIjpmYWxzZX19/manifest.json"
   },
   {
-    "category": "Film",
+    "category": "Stremio",
     "name": "Stremio - Netflix Catalog",
     "url": "stremio://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxjcGQsbWJpLGhheSxuZms6OkZSOjE3OTMwODczMjkzODE6MDowOkZS/manifest.json"
   },
   {
-    "category": "Film",
+    "category": "Stremio",
     "name": "Stremio - AIOStreams",
     "url": "stremio://aiostreams.elfhosted.com/stremio/b0606aa2-b8d7-4a4e-8c21-a484f918464d/eyJpIjoiRXFKTnpYd2ZQeUc4MGJGYVNwTVJSQT09IiwiZSI6IngraW1hcTV1RHpxWTFLQW9nS2o0dEE9PSIsInQiOiJhIn0/manifest.json"
   },
   {
-    "category": "Anime",
+    "category": "Stremio",
     "name": "Stremio - Anime Kitsu",
     "url": "stremio://anime-kitsu.strem.fun/manifest.json"
   },
   {
-    "category": "Anime",
+    "category": "Stremio",
     "name": "Stremio - YukiStreams",
     "url": "stremio://stremio.yukistreams.xyz/p.muoRwE5YyL05IWok/manifest.json"
   },
   {
-    "category": "Film",
+    "category": "Stremio",
     "name": "Stremio - Mylumio",
     "url": "stremio://mylumio.tv/H0adnDLXOSWK/manifest.json"
   },
   {
-    "category": "Film",
+    "category": "Stremio",
     "name": "Stremio - StreamFusion",
     "url": "stremio://streamfusion.stremio-epsilon.ca/fd573fe2-a992-4e5d-9cd4-c77561cef1f6/0-fjTt3KyjgNpS-rd8cBievJbWXY727MTDaCAspDhD5SAA9bqL_DFv20ZWxMBQARo/manifest.json"
   }
