@@ -1,7 +1,17 @@
 [
   {
-    "category": "Sport",
-    "name": "Chaine TV - http://mag.tiger-ott.net:80/c/ - 00:1A:79:c6:05:0d",
+    "category": "Portail Stalker",
+    "name": "Chaine TV - http://nexusconnects.org:80/c/ --- 00:1A:79:F5:12:87",
+    "url": "http://nexusconnects.org:80/c/"
+  },
+  {
+    "category": "Portail Stalker",
+    "name": "Chaine TV - http://b1.jinbox.nl:80/c/ --- 00:1A:79:A4:1C:0C",
+    "url": "http://b1.jinbox.nl:80/c/"
+  },
+  {
+    "category": "Portail Stalker",
+    "name": "Chaine TV - http://mag.tiger-ott.net:80/c/ --- 00:1A:79:c6:05:0d",
     "url": "http://mag.tiger-ott.net:80/c/"
   },
   {
