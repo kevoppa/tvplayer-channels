@@ -1,4 +1,4 @@
-# tvplayer-channels (APK)
+# TVplayer-channels.apk
 https://drive.google.com/file/d/1lfZm2Koql4Grz0UFhFUa9nQ-aiFh820I/view?usp=drive_link
 
 # APK Google Drive (dossier "app")
